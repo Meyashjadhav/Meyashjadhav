@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&height=60&duration=3500&pause=800&color=2563A8&lines=Yashodip+Jadhav;Software+Engineer+%7C+SDET; Pipeline+Automation+%26+Quality+at+Scale;Ship+Fast.+Break+Nothing." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=720&height=60&duration=3500&pause=800&color=58A6FF&lines=Yashodip+Jadhav;Software+Engineer+%7C+SDET;Pipeline+Automation+%26+Quality+at+Scale;Ship+Fast.+Break+Nothing." />
 </div>
 
 <br/>
