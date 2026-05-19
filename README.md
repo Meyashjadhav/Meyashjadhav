@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <strong>SDET @ CentraLogic &nbsp;•&nbsp; Playwright · Selenium · Jenkins · AWS · Docker</strong><br/>
+  <strong>Software Enginner - SDET &nbsp;•&nbsp; Playwright · Selenium · Jenkins · AWS · Docker</strong><br/>
   <em>Engineered to lead. Programmed for legacy.</em>
 </div>
 
