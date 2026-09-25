@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=720&height=60&duration=3500&pause=800&color=58A6FF&lines=Yashodip+Jadhav;Software+Engineer+%7C+SDET;Pipeline+Automation+%26+Quality+at+Scale;Ship+Fast.+Break+Nothing." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=720&height=60&duration=3500&pause=800&color=58A6FF&lines=Yashodip+Jadhav;Software+Engineer+%7C+Breathing logic into AI Systems;Pipeline+Automation+%26+Quality+at+Scale;Ship+Fast.+Break+Nothing." />
 </div>
 
 <br/>
 
 <div align="center">
-  <strong>Software Enginner AI &nbsp;•&nbsp; Agentic AI · RAG & LLM Systems (Python) · Pytest · AWS · Docker</strong><br/>
+  <strong>Software Engineer AI &nbsp;•&nbsp; Agentic AI · RAG & LLM Systems (Python) · Pytest · AWS · Docker</strong><br/>
   <em> Breathing logic into AI </em>
 </div>
 
@@ -21,11 +21,11 @@
 
 ```yaml
 name        : Yashodip Jadhav
-role        : Software Engineer (SDET) → DevOps Engineer
+role        : Software Engineer (AI) 
 company     : CentraLogic India Pvt. Ltd., Pune
-focus       : Automation Frameworks · CI/CD Pipelines · Performance Engineering
+focus       : Agentic AI · RAG & LLM Systems (Python) | Test Automation (Pytest, Playwright) | CI/CD
 community   : Atlassian Community Rising Star → heading to Community Champion
-philosophy  : "Quality is not a checkpoint. It's an engineering discipline."
+philosophy  : "Breathing logic into AI. Amplifying human potential."
 ```
 
 - 🔭 &nbsp;Building enterprise-grade automation frameworks with **Java + Playwright + Selenium**
