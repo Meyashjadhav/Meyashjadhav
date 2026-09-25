@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  <strong>Software Enginner - SDET &nbsp;•&nbsp; Playwright · Selenium · Jenkins · AWS · Docker</strong><br/>
-  <em>Engineered to lead. Programmed for legacy.</em>
+  <strong>Software Enginner AI &nbsp;•&nbsp; Agentic AI · RAG & LLM Systems (Python) · Pytest · AWS · Docker</strong><br/>
+  <em> Breathing logic into AI </em>
 </div>
 
 <br/>
